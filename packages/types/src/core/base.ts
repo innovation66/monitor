@@ -213,6 +213,7 @@ export interface Window {
       [key: string]: any;
     };
   };
+  document: any;
   history: any;
   addEventListener: any;
   innerWidth: any;

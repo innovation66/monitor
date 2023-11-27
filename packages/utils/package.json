@@ -11,7 +11,7 @@
   "files": [
     "dist"
   ],
-  "author": "海阔天空",
+  "author": "李宗晟",
   "license": "ISC",
   "dependencies": {
     "@types/ua-parser-js": "^0.7.36",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:xy-sea/web-see.git"
+    "url": "git@github.com:innovation66/monitor.git"
   }
 }

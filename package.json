@@ -17,7 +17,7 @@
     "web monitor",
     "web see sdk"
   ],
-  "author": "海阔天空",
+  "author": "李宗晟",
   "license": "ISC",
   "dependencies": {
     "@changesets/cli": "^2.26.1",
@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:xy-sea/web-see.git"
+    "url": "git@github.com:innovation66/monitor.git"
   },
   "config": {
     "commitizen": {

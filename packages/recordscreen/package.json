@@ -11,11 +11,11 @@
   "files": [
     "dist"
   ],
-  "author": "海阔天空",
+  "author": "李宗晟",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:xy-sea/web-see.git"
+    "url": "git@github.com:innovation66/monitor.git"
   },
   "dependencies": {
     "@types/pako": "^2.0.0",
